@@ -36,6 +36,12 @@ Key functionalities:
 - Displays the vehicle count in real-time.
 
 ---
+## 🔍 RTL Schematic View
+
+Below is the Register Transfer Level (RTL) schematic of the complete parking garage system as synthesized in Quartus:
+
+![RTL View](RTL_View.png)
+---
 
 ## 🔧 Component Modules
 
