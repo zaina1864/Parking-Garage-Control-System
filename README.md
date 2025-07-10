@@ -123,15 +123,4 @@ All modules are designed to be **testbench-compatible** for simulation in ModelS
 - Add LCD interface for detailed status display.
 - Upgrade sensor logic to support multiple garage lanes.
 
----
-
-## 📬 Contact
-
-Feel free to reach out for collaboration, hiring, or technical discussions.
-
-**Developer**: *[Your Name]*  
-**Email**: *your.email@example.com*  
-**LinkedIn**: *linkedin.com/in/yourprofile*
-
----
 
